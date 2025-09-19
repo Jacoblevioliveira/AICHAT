@@ -1,0 +1,61 @@
+/* Main window background */
+QWidget {
+    background: #e6f2ee;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Chat display background */
+QTextEdit {
+    background: #ffffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 14pt;
+}
+
+/* Input text field */
+QLineEdit {
+    background: #f0f9f5;
+    border: 1px solid #a0c6b9;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 12pt;
+}
+
+/* Buttons */
+QPushButton {
+    background: #10a37f;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12pt;
+}
+
+QPushButton:hover {
+    background: #12b28a;
+}
+
+QPushButton:pressed {
+    background: #0c7c5d;
+    color: white;
+}
+
+/* Control Panel specific container */
+#controlCard {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 24px;
+}
+
+/* Control Panel header */
+#controlCard QLabel {
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Toggle buttons in Control Panel */
+QPushButton:checked {
+    background-color: #0e8e6e;
+}

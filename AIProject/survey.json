@@ -1,0 +1,39 @@
+[
+  {
+    "id": "q_8c586a",
+    "question": "New Percentage Question",
+    "scale": [
+      "Left Label",
+      "Right Label"
+    ],
+    "type": "percentage_scale"
+  },
+  {
+    "anchors": {
+      "1": "Strongly Disagree",
+      "5": "Strongly Agree"
+    },
+    "id": "q_f8c11e",
+    "points": 5,
+    "question": "New Likert Question",
+    "type": "likert"
+  },
+  {
+    "id": "q_3c9081",
+    "options": [
+      "Option 1",
+      "Option 2"
+    ],
+    "question": "New Multiple Choice Question",
+    "type": "multiple_choice"
+  },
+  {
+    "id": "q_0090f2",
+    "options": [
+      "Choice A",
+      "Choice B"
+    ],
+    "question": "New Checkbox Question",
+    "type": "checkbox"
+  }
+]

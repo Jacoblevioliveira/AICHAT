@@ -1,0 +1,17 @@
+[
+    {
+        "response_a": "New A-Side Response. Edit me.",
+        "response_b": "New B-Side Response. Edit me.",
+        "type": "ab_test"
+    },
+    {
+        "response_a": "HELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBOYS",
+        "response_b": "THIS IS MORE TEXT TO TEST THINGS",
+        "type": "ab_test"
+    },
+    {
+        "response_a": "New A-Side Response. Edit me.",
+        "response_b": "New B-Side Response. Edit me.",
+        "type": "ab_test"
+    }
+]

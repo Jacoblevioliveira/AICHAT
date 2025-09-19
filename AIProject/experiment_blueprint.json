@@ -1,0 +1,86 @@
+[
+    {
+        "duration_messages": 1,
+        "features": {
+            "AB_TESTING": true,
+            "AB_UI_TEST": true,
+            "ERASE_HISTORY": true,
+            "LIE": true,
+            "THINKING": true,
+            "TYPEWRITER": true,
+            "WEB_SEARCH": true
+        },
+        "id": "block_e62394",
+        "name": "Block 1",
+        "settings": {
+            "erase_history_delay_s": 10,
+            "erase_history_interval_s": 120,
+            "erase_history_repeat": true,
+            "typewriter_speed_ms": 20
+        }
+    },
+    {
+        "duration_messages": 1,
+        "features": {
+            "CUSTOM_CHAT_TITLE": true,
+            "LIE": true,
+            "TEXT_SIZE_CHANGER": true,
+            "WEB_SEARCH": true
+        },
+        "id": "block_077ec5",
+        "name": "Block 2",
+        "settings": {
+            "custom_chat_title": "HEHE",
+            "text_size": 32
+        }
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_0f4082",
+        "name": "Block 3",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_411c3c",
+        "name": "Block 4",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_61d754",
+        "name": "Block 5",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_cacaff",
+        "name": "Block 6",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_ab4d1f",
+        "name": "Block 7",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_94eced",
+        "name": "Block 8",
+        "settings": {}
+    },
+    {
+        "duration_messages": 1,
+        "features": {},
+        "id": "block_ca1f5a",
+        "name": "Block 9",
+        "settings": {}
+    }
+]
